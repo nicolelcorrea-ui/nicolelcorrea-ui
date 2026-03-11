@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim 
 
 Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
 Meu objetivo é trabalhar com informática mais pra frente 
